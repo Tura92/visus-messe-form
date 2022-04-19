@@ -17,3 +17,9 @@ iframe {
   width: 100%;
   
 }
+
+@media screen {
+  iframe {
+    padding-left: 8px;
+  }
+}
