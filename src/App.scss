@@ -14,12 +14,10 @@ img {
 
 iframe {
   height: 70vh;
-  width: 100%;
+  width: 100vw;
   
 }
 
-@media screen {
-  iframe {
-    padding-left: 8px;
-  }
+div {
+  overflow-x: hidden;
 }
